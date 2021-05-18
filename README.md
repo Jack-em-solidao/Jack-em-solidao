@@ -1,0 +1,5 @@
+- 👋 | Olá, eu sou o jack.
+- 👀 | Eu programo um bot pro discord chamado Ben
+- 🌱 | Eu não sei como você chegou aqui, mas tudo bem
+- 💞️ | Eu amo programar
+- 📫 | Sayonara..
